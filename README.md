@@ -12,3 +12,7 @@ logger.log('hello test log')
 logger.warn('hello test warn')
 logger.error('hello test error')
 ```
+
+Logger on diagrams
+
+![Logger](https://github.com/B4RteQPl/Logger/blob/main/Diagrams/diagram1.png)
